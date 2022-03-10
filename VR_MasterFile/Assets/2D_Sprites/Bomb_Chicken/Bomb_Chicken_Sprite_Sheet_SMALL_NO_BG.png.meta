@@ -1,0 +1,1800 @@
+fileFormatVersion: 2
+guid: a1ada24949728704e8b12c95f86410f2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6974531852095918210
+    second: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_0
+  - first:
+      213: 1401361982152346998
+    second: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_1
+  - first:
+      213: -8723933320767395658
+    second: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_2
+  - first:
+      213: 4358704375570867000
+    second: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_3
+  - first:
+      213: -4667875999605106770
+    second: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_4
+  - first:
+      213: 8099267278403663807
+    second: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_5
+  - first:
+      213: 1897595122249264813
+    second: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_6
+  - first:
+      213: 5414444343979979168
+    second: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_7
+  - first:
+      213: 9145911466427008239
+    second: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_8
+  - first:
+      213: -5510040824823441146
+    second: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_9
+  - first:
+      213: 138663777997200136
+    second: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_10
+  - first:
+      213: -44972171788698543
+    second: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_11
+  - first:
+      213: 8473946194798822142
+    second: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_12
+  - first:
+      213: 4062392610776477740
+    second: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_13
+  - first:
+      213: -1594320973699586076
+    second: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_14
+  - first:
+      213: 9106338337105999479
+    second: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_15
+  - first:
+      213: 6824623838724115872
+    second: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_16
+  - first:
+      213: -8781685384611991614
+    second: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_17
+  - first:
+      213: -4268779903655142419
+    second: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_18
+  - first:
+      213: -4473602075951169763
+    second: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_19
+  - first:
+      213: -2219023435471209219
+    second: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_20
+  - first:
+      213: -3663344866665933371
+    second: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_21
+  - first:
+      213: -6915581845066805921
+    second: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_22
+  - first:
+      213: 6623826133646067697
+    second: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_23
+  - first:
+      213: 2265809917790533781
+    second: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_24
+  - first:
+      213: 604410066231902047
+    second: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_25
+  - first:
+      213: 5312849890526194606
+    second: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_26
+  - first:
+      213: 4938736540087050133
+    second: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_27
+  - first:
+      213: 5053059641714902071
+    second: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_28
+  - first:
+      213: -6269380545932605035
+    second: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_29
+  - first:
+      213: -8036072380139404285
+    second: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_30
+  - first:
+      213: 5390950306782515034
+    second: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_31
+  - first:
+      213: -586793671673190989
+    second: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_32
+  - first:
+      213: -4887966492004363819
+    second: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_33
+  - first:
+      213: 5486900568181839078
+    second: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_34
+  - first:
+      213: -6442188240156345849
+    second: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_35
+  - first:
+      213: 8041349018645271481
+    second: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_36
+  - first:
+      213: 343416850811130304
+    second: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_37
+  - first:
+      213: -7954638055922987794
+    second: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_38
+  - first:
+      213: -8322305750314377180
+    second: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_39
+  - first:
+      213: -7133164239384421972
+    second: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_40
+  - first:
+      213: -1687691381464137007
+    second: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_41
+  - first:
+      213: 1216632364671378456
+    second: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_42
+  - first:
+      213: 7758819519036917159
+    second: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_43
+  - first:
+      213: -4689636426926677518
+    second: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_44
+  - first:
+      213: 2143809011760135400
+    second: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_45
+  - first:
+      213: 8226187777156860128
+    second: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_46
+  - first:
+      213: 6225645896851017898
+    second: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_47
+  - first:
+      213: 3422899277854861069
+    second: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_48
+  - first:
+      213: 5441331289890643164
+    second: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_49
+  - first:
+      213: -6916407165868856773
+    second: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_50
+  - first:
+      213: -1374235904085235338
+    second: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_51
+  - first:
+      213: 3915848305589306402
+    second: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_52
+  - first:
+      213: -586195135964413934
+    second: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_53
+  - first:
+      213: 5322829885992205121
+    second: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_54
+  - first:
+      213: 3379297382851515577
+    second: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_55
+  - first:
+      213: -1803103649048821415
+    second: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_56
+  - first:
+      213: -6016536374079130442
+    second: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_57
+  - first:
+      213: 6992482681916990168
+    second: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_58
+  - first:
+      213: -4617890550542515621
+    second: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_59
+  - first:
+      213: 4774976317666640560
+    second: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_60
+  - first:
+      213: -7114341654702929673
+    second: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_61
+  - first:
+      213: -5327262251228857663
+    second: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_62
+  - first:
+      213: 312353686066048118
+    second: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_63
+  - first:
+      213: -9199743650209285275
+    second: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_64
+  - first:
+      213: -612120902572638932
+    second: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_65
+  - first:
+      213: 5083920882406299476
+    second: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_66
+  - first:
+      213: 2782524629379777567
+    second: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_67
+  - first:
+      213: 6322747023098873564
+    second: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_68
+  - first:
+      213: 6154929815252845918
+    second: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_69
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_0
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 4945
+        width: 526
+        height: 624
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7fec21bb3c753f90800000000000000
+      internalID: -6974531852095918210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_1
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 4945
+        width: 528
+        height: 624
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d8deb4c43a27310800000000000000
+      internalID: 1401361982152346998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_2
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 4988
+        width: 514
+        height: 569
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8277bbddc5ee680800000000000000
+      internalID: -8723933320767395658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_3
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 4988
+        width: 517
+        height: 569
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833a7d2498a3d7c30800000000000000
+      internalID: 4358704375570867000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_4
+      rect:
+        serializedVersion: 2
+        x: 3372
+        y: 5016
+        width: 526
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea757f3828f583fb0800000000000000
+      internalID: -4667875999605106770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_5
+      rect:
+        serializedVersion: 2
+        x: 4180
+        y: 5008
+        width: 528
+        height: 521
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7f13e8da0666070800000000000000
+      internalID: 8099267278403663807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_6
+      rect:
+        serializedVersion: 2
+        x: 4981
+        y: 5000
+        width: 515
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae6e25b5bc955a10800000000000000
+      internalID: 1897595122249264813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_7
+      rect:
+        serializedVersion: 2
+        x: 5789
+        y: 5000
+        width: 517
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1bc03a178f32b40800000000000000
+      internalID: 5414444343979979168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_8
+      rect:
+        serializedVersion: 2
+        x: 6611
+        y: 4972
+        width: 474
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4cd87850eccee70800000000000000
+      internalID: 9145911466427008239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_9
+      rect:
+        serializedVersion: 2
+        x: 7422
+        y: 4972
+        width: 473
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6099f7230176883b0800000000000000
+      internalID: -5510040824823441146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_10
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 4151
+        width: 482
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b9cbea8f1ace100800000000000000
+      internalID: 138663777997200136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_11
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 4151
+        width: 479
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15cb1cb4c0a306ff0800000000000000
+      internalID: -44972171788698543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_12
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 4150
+        width: 486
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2c1c2da21899570800000000000000
+      internalID: 8473946194798822142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_13
+      rect:
+        serializedVersion: 2
+        x: 2601
+        y: 4150
+        width: 486
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20f0875e84806830800000000000000
+      internalID: 4062392610776477740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_14
+      rect:
+        serializedVersion: 2
+        x: 3439
+        y: 4185
+        width: 439
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e76ea08585dfd9e0800000000000000
+      internalID: -1594320973699586076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_15
+      rect:
+        serializedVersion: 2
+        x: 4250
+        y: 4178
+        width: 435
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77679bb5876306e70800000000000000
+      internalID: 9106338337105999479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_16
+      rect:
+        serializedVersion: 2
+        x: 5025
+        y: 4173
+        width: 458
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad40d0193fe5be50800000000000000
+      internalID: 6824623838724115872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_17
+      rect:
+        serializedVersion: 2
+        x: 5836
+        y: 4173
+        width: 455
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf66f88baf212680800000000000000
+      internalID: -8781685384611991614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_18
+      rect:
+        serializedVersion: 2
+        x: 6623
+        y: 4209
+        width: 470
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb1f4a6b4f32c4c0800000000000000
+      internalID: -4268779903655142419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_19
+      rect:
+        serializedVersion: 2
+        x: 7434
+        y: 4201
+        width: 470
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ffa743d929ae1c0800000000000000
+      internalID: -4473602075951169763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_20
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 3363
+        width: 483
+        height: 510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfcb87c31f17431e0800000000000000
+      internalID: -2219023435471209219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_21
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 3363
+        width: 482
+        height: 510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c550a4c04f292dc0800000000000000
+      internalID: -3663344866665933371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_22
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 3296
+        width: 502
+        height: 541
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d07a5c3fae600a0800000000000000
+      internalID: -6915581845066805921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_23
+      rect:
+        serializedVersion: 2
+        x: 2581
+        y: 3296
+        width: 506
+        height: 541
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f74ce526ce8ceb50800000000000000
+      internalID: 6623826133646067697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_24
+      rect:
+        serializedVersion: 2
+        x: 3392
+        y: 3296
+        width: 509
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598367e8d16c17f10800000000000000
+      internalID: 2265809917790533781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_25
+      rect:
+        serializedVersion: 2
+        x: 4202
+        y: 3296
+        width: 507
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f3c60c0cb436800800000000000000
+      internalID: 604410066231902047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_26
+      rect:
+        serializedVersion: 2
+        x: 5041
+        y: 3312
+        width: 486
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab69c5a3d80bb940800000000000000
+      internalID: 5312849890526194606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_27
+      rect:
+        serializedVersion: 2
+        x: 5848
+        y: 3312
+        width: 486
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f512777bae98440800000000000000
+      internalID: 4938736540087050133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_28
+      rect:
+        serializedVersion: 2
+        x: 6686
+        y: 3304
+        width: 459
+        height: 521
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734874dc8f2102640800000000000000
+      internalID: 5053059641714902071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_29
+      rect:
+        serializedVersion: 2
+        x: 7497
+        y: 3304
+        width: 459
+        height: 521
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59941fd2c9faef8a0800000000000000
+      internalID: -6269380545932605035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_30
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 2533
+        width: 458
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30486784fb22a7090800000000000000
+      internalID: -8036072380139404285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_31
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 2533
+        width: 458
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f0e85ddb080da40800000000000000
+      internalID: 5390950306782515034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_32
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 2533
+        width: 446
+        height: 553
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5e87bb34a4bd7f0800000000000000
+      internalID: -586793671673190989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_33
+      rect:
+        serializedVersion: 2
+        x: 2608
+        y: 2537
+        width: 447
+        height: 549
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d151128f547a2cb0800000000000000
+      internalID: -4887966492004363819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_34
+      rect:
+        serializedVersion: 2
+        x: 3380
+        y: 2564
+        width: 454
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e41e54fef2652c40800000000000000
+      internalID: 5486900568181839078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_35
+      rect:
+        serializedVersion: 2
+        x: 4187
+        y: 2564
+        width: 454
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a38418defb896a0800000000000000
+      internalID: -6442188240156345849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_36
+      rect:
+        serializedVersion: 2
+        x: 4958
+        y: 2568
+        width: 498
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3994bd35c989f60800000000000000
+      internalID: 8041349018645271481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_37
+      rect:
+        serializedVersion: 2
+        x: 5769
+        y: 2572
+        width: 498
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c11b7a6ecf04c400800000000000000
+      internalID: 343416850811130304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_38
+      rect:
+        serializedVersion: 2
+        x: 6583
+        y: 2552
+        width: 475
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec08e765d27b9190800000000000000
+      internalID: -7954638055922987794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_39
+      rect:
+        serializedVersion: 2
+        x: 7394
+        y: 2552
+        width: 475
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4202258730b318c80800000000000000
+      internalID: -8322305750314377180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_40
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1742
+        width: 474
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9d8fadae8e10d90800000000000000
+      internalID: -7133164239384421972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_41
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 1742
+        width: 475
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2875d51ad1498e0800000000000000
+      internalID: -1687691381464137007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_42
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 1722
+        width: 534
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8142b7e80b852e010800000000000000
+      internalID: 1216632364671378456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_43
+      rect:
+        serializedVersion: 2
+        x: 2545
+        y: 1722
+        width: 530
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5009c9e3ddcab60800000000000000
+      internalID: 7758819519036917159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_44
+      rect:
+        serializedVersion: 2
+        x: 3388
+        y: 1718
+        width: 521
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1ad4734801beeb0800000000000000
+      internalID: -4689636426926677518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_45
+      rect:
+        serializedVersion: 2
+        x: 4198
+        y: 1718
+        width: 518
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec7e3410f650cd10800000000000000
+      internalID: 2143809011760135400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_46
+      rect:
+        serializedVersion: 2
+        x: 5053
+        y: 1718
+        width: 510
+        height: 605
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e84819f23a492270800000000000000
+      internalID: 8226187777156860128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_47
+      rect:
+        serializedVersion: 2
+        x: 5863
+        y: 1718
+        width: 510
+        height: 605
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa05c2355ffe56650800000000000000
+      internalID: 6225645896851017898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_48
+      rect:
+        serializedVersion: 2
+        x: 6639
+        y: 1711
+        width: 529
+        height: 628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07ea7602c4908f20800000000000000
+      internalID: 3422899277854861069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_49
+      rect:
+        serializedVersion: 2
+        x: 7449
+        y: 1711
+        width: 526
+        height: 628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc562f8afd738b40800000000000000
+      internalID: 5441331289890643164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_50
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 903
+        width: 526
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3aab6cc35cf300a0800000000000000
+      internalID: -6916407165868856773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_51
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 900
+        width: 528
+        height: 624
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679696be9bbbdece0800000000000000
+      internalID: -1374235904085235338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_52
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 935
+        width: 498
+        height: 573
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22447f07943e75630800000000000000
+      internalID: 3915848305589306402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_53
+      rect:
+        serializedVersion: 2
+        x: 2620
+        y: 935
+        width: 498
+        height: 573
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21087cf21aa6dd7f0800000000000000
+      internalID: -586195135964413934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_54
+      rect:
+        serializedVersion: 2
+        x: 3432
+        y: 975
+        width: 478
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14bf56a649d7ed940800000000000000
+      internalID: 5322829885992205121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_55
+      rect:
+        serializedVersion: 2
+        x: 4239
+        y: 975
+        width: 477
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4954fb01da5ee20800000000000000
+      internalID: 3379297382851515577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_56
+      rect:
+        serializedVersion: 2
+        x: 4966
+        y: 872
+        width: 660
+        height: 719
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9510c31d8c61af6e0800000000000000
+      internalID: -1803103649048821415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_57
+      rect:
+        serializedVersion: 2
+        x: 5772
+        y: 872
+        width: 663
+        height: 719
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4fbc47b08f08ca0800000000000000
+      internalID: -6016536374079130442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_58
+      rect:
+        serializedVersion: 2
+        x: 6651
+        y: 919
+        width: 502
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2abb193f94a0160800000000000000
+      internalID: 6992482681916990168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_59
+      rect:
+        serializedVersion: 2
+        x: 7461
+        y: 919
+        width: 502
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52c74bc205f9efb0800000000000000
+      internalID: -4617890550542515621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_60
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 85
+        width: 526
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b24c6979af144240800000000000000
+      internalID: 4774976317666640560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_61
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 85
+        width: 526
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8caac55f7c44d90800000000000000
+      internalID: -7114341654702929673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_62
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 85
+        width: 526
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1caf7222533c116b0800000000000000
+      internalID: -5327262251228857663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_63
+      rect:
+        serializedVersion: 2
+        x: 2593
+        y: 85
+        width: 526
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c2046c504b55400800000000000000
+      internalID: 312353686066048118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_64
+      rect:
+        serializedVersion: 2
+        x: 3399
+        y: 85
+        width: 526
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56bbe9874e1f35080800000000000000
+      internalID: -9199743650209285275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_65
+      rect:
+        serializedVersion: 2
+        x: 4214
+        y: 85
+        width: 526
+        height: 628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2df092484f4187f0800000000000000
+      internalID: -612120902572638932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_66
+      rect:
+        serializedVersion: 2
+        x: 5023
+        y: 85
+        width: 528
+        height: 628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45794065b17bd8640800000000000000
+      internalID: 5083920882406299476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_67
+      rect:
+        serializedVersion: 2
+        x: 5836
+        y: 85
+        width: 526
+        height: 628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1405f078638d9620800000000000000
+      internalID: 2782524629379777567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_68
+      rect:
+        serializedVersion: 2
+        x: 6643
+        y: 85
+        width: 526
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6877c0be8eeb750800000000000000
+      internalID: 6322747023098873564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Chicken_Sprite_Sheet_SMALL_NO_BG_69
+      rect:
+        serializedVersion: 2
+        x: 7449
+        y: 85
+        width: 528
+        height: 628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e554b978e04ba6550800000000000000
+      internalID: 6154929815252845918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 74d46142ce4aed54a8bec6bb76f8c7de
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

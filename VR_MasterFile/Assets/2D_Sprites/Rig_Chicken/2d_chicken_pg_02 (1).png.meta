@@ -1,0 +1,1080 @@
+fileFormatVersion: 2
+guid: 12e3861a91913e2499198a9278d0ae5f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1163351046706559869
+    second: 2d_chicken_pg_02 (1)_0
+  - first:
+      213: -424653314964986245
+    second: 2d_chicken_pg_02 (1)_1
+  - first:
+      213: -6524472351487877310
+    second: 2d_chicken_pg_02 (1)_2
+  - first:
+      213: 749406709440653604
+    second: 2d_chicken_pg_02 (1)_3
+  - first:
+      213: -3388888528252388876
+    second: 2d_chicken_pg_02 (1)_4
+  - first:
+      213: -8054150644982843335
+    second: 2d_chicken_pg_02 (1)_5
+  - first:
+      213: -4357657483027431848
+    second: 2d_chicken_pg_02 (1)_6
+  - first:
+      213: 4534696134928568442
+    second: 2d_chicken_pg_02 (1)_7
+  - first:
+      213: -4786213899514323136
+    second: 2d_chicken_pg_02 (1)_8
+  - first:
+      213: -6550812366096531484
+    second: 2d_chicken_pg_02 (1)_9
+  - first:
+      213: 5395554212992222579
+    second: 2d_chicken_pg_02 (1)_10
+  - first:
+      213: 8999295349247575316
+    second: 2d_chicken_pg_02 (1)_11
+  - first:
+      213: -5400582769138921880
+    second: 2d_chicken_pg_02 (1)_12
+  - first:
+      213: 2413333501976953853
+    second: 2d_chicken_pg_02 (1)_13
+  - first:
+      213: 7351820865054300658
+    second: 2d_chicken_pg_02 (1)_14
+  - first:
+      213: 6467242368988271510
+    second: 2d_chicken_pg_02 (1)_15
+  - first:
+      213: -2376886023141515736
+    second: 2d_chicken_pg_02 (1)_16
+  - first:
+      213: -2647641163158112786
+    second: 2d_chicken_pg_02 (1)_17
+  - first:
+      213: 10743336484564878
+    second: 2d_chicken_pg_02 (1)_18
+  - first:
+      213: -8276009636647627592
+    second: 2d_chicken_pg_02 (1)_19
+  - first:
+      213: 1470130609996102140
+    second: 2d_chicken_pg_02 (1)_20
+  - first:
+      213: 4379161043524535824
+    second: 2d_chicken_pg_02 (1)_21
+  - first:
+      213: -2086793226061398931
+    second: 2d_chicken_pg_02 (1)_22
+  - first:
+      213: -8986517638128153079
+    second: 2d_chicken_pg_02 (1)_23
+  - first:
+      213: -2748842880403852908
+    second: 2d_chicken_pg_02 (1)_24
+  - first:
+      213: 5034550066249057124
+    second: 2d_chicken_pg_02 (1)_25
+  - first:
+      213: -6182956035457300279
+    second: 2d_chicken_pg_02 (1)_26
+  - first:
+      213: -4576827511848270292
+    second: 2d_chicken_pg_02 (1)_27
+  - first:
+      213: 2722503243149343127
+    second: 2d_chicken_pg_02 (1)_28
+  - first:
+      213: 6738685309479960092
+    second: 2d_chicken_pg_02 (1)_29
+  - first:
+      213: -1131092549410330457
+    second: 2d_chicken_pg_02 (1)_30
+  - first:
+      213: 6948959720025911867
+    second: 2d_chicken_pg_02 (1)_31
+  - first:
+      213: -7764716729086745358
+    second: 2d_chicken_pg_02 (1)_32
+  - first:
+      213: -1874469774636428279
+    second: 2d_chicken_pg_02 (1)_33
+  - first:
+      213: -3642133767665977455
+    second: 2d_chicken_pg_02 (1)_34
+  - first:
+      213: -3548419773885888598
+    second: 2d_chicken_pg_02 (1)_35
+  - first:
+      213: 4304661328546058273
+    second: 2d_chicken_pg_02 (1)_36
+  - first:
+      213: 4211950284743046676
+    second: 2d_chicken_pg_02 (1)_37
+  - first:
+      213: 7924525269276314190
+    second: 2d_chicken_pg_02 (1)_38
+  - first:
+      213: 5293014965558885982
+    second: 2d_chicken_pg_02 (1)_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2d_chicken_pg_02 (1)_0
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 4645
+        width: 747
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3840afff262fadfe0800000000000000
+      internalID: -1163351046706559869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_chicken_pg_02 (1)_1
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 4636
+        width: 738
+        height: 676
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76e1d85f045b1af0800000000000000
+      internalID: -424653314964986245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_chicken_pg_02 (1)_2
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 4636
+        width: 714
+        height: 688
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f15b6e6fa6475a0800000000000000
+      internalID: -6524472351487877310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_chicken_pg_02 (1)_3
+      rect:
+        serializedVersion: 2
+        x: 3313
+        y: 4591
+        width: 685
+        height: 697
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42921848e6d666a00800000000000000
+      internalID: 749406709440653604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_chicken_pg_02 (1)_4
+      rect:
+        serializedVersion: 2
+        x: 4423
+        y: 4570
+        width: 661
+        height: 706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9be12b6df38f0d0800000000000000
+      internalID: -3388888528252388876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_chicken_pg_02 (1)_5
+      rect:
+        serializedVersion: 2
+        x: 5567
+        y: 4541
+        width: 635
+        height: 731
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938705e39a8e93090800000000000000
+      internalID: -8054150644982843335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_chicken_pg_02 (1)_6
+      rect:
+        serializedVersion: 2
+        x: 6590
+        y: 4512
+        width: 615
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85eb3576b9d7683c0800000000000000
+      internalID: -4357657483027431848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_chicken_pg_02 (1)_7
+      rect:
+        serializedVersion: 2
+        x: 7618
+        y: 4471
+        width: 619
+        height: 801
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7011cedb1a7eee30800000000000000
+      internalID: 4534696134928568442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_chicken_pg_02 (1)_8
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 3341
+        width: 607
+        height: 829
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f596c11d3f39db0800000000000000
+      internalID: -4786213899514323136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_chicken_pg_02 (1)_9
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 3303
+        width: 594
+        height: 854
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef74985cd6d615a0800000000000000
+      internalID: -6550812366096531484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_chicken_pg_02 (1)_10
+      rect:
+        serializedVersion: 2
+        x: 2537
+        y: 3291
+        width: 573
+        height: 866
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37583c748fbd0ea40800000000000000
+      internalID: 5395554212992222579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_chicken_pg_02 (1)_11
+      rect:
+        serializedVersion: 2
+        x: 3558
+        y: 3270
+        width: 555
+        height: 867
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4150ab8907be3ec70800000000000000
+      internalID: 8999295349247575316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_chicken_pg_02 (1)_12
+      rect:
+        serializedVersion: 2
+        x: 4638
+        y: 3299
+        width: 532
+        height: 870
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e0161c5964d05b0800000000000000
+      internalID: -5400582769138921880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_chicken_pg_02 (1)_13
+      rect:
+        serializedVersion: 2
+        x: 5657
+        y: 3270
+        width: 545
+        height: 866
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3c2ed9802ed7120800000000000000
+      internalID: 2413333501976953853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_chicken_pg_02 (1)_14
+      rect:
+        serializedVersion: 2
+        x: 6644
+        y: 3295
+        width: 553
+        height: 937
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9ddd9002ae60660800000000000000
+      internalID: 7351820865054300658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_chicken_pg_02 (1)_15
+      rect:
+        serializedVersion: 2
+        x: 7647
+        y: 3287
+        width: 528
+        height: 853
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693d6ef6ba240c950800000000000000
+      internalID: 6467242368988271510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_chicken_pg_02 (1)_16
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 2094
+        width: 495
+        height: 937
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e1f0751ca930fd0800000000000000
+      internalID: -2376886023141515736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_chicken_pg_02 (1)_17
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 2152
+        width: 570
+        height: 896
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee53241d360b14bd0800000000000000
+      internalID: -2647641163158112786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_chicken_pg_02 (1)_18
+      rect:
+        serializedVersion: 2
+        x: 2446
+        y: 2094
+        width: 565
+        height: 892
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f6dd2f10b262000800000000000000
+      internalID: 10743336484564878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_chicken_pg_02 (1)_19
+      rect:
+        serializedVersion: 2
+        x: 3470
+        y: 2131
+        width: 557
+        height: 886
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b498e96515b52d80800000000000000
+      internalID: -8276009636647627592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_chicken_pg_02 (1)_20
+      rect:
+        serializedVersion: 2
+        x: 4543
+        y: 2152
+        width: 540
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9fe3e2004f66410800000000000000
+      internalID: 1470130609996102140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_chicken_pg_02 (1)_21
+      rect:
+        serializedVersion: 2
+        x: 5620
+        y: 2107
+        width: 533
+        height: 912
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016428d64c7e5cc30800000000000000
+      internalID: 4379161043524535824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_chicken_pg_02 (1)_22
+      rect:
+        serializedVersion: 2
+        x: 6590
+        y: 2107
+        width: 537
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c3be00e983a03e0800000000000000
+      internalID: -2086793226061398931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_chicken_pg_02 (1)_23
+      rect:
+        serializedVersion: 2
+        x: 7585
+        y: 2078
+        width: 545
+        height: 924
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ec69b12d9794380800000000000000
+      internalID: -8986517638128153079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_chicken_pg_02 (1)_24
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 964
+        width: 553
+        height: 928
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491ba2ad6f52ad9d0800000000000000
+      internalID: -2748842880403852908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_chicken_pg_02 (1)_25
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 992
+        width: 565
+        height: 929
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463c1be6c905ed540800000000000000
+      internalID: 5034550066249057124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_chicken_pg_02 (1)_26
+      rect:
+        serializedVersion: 2
+        x: 2405
+        y: 997
+        width: 573
+        height: 924
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8c5b49e3ab13aa0800000000000000
+      internalID: -6182956035457300279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_chicken_pg_02 (1)_27
+      rect:
+        serializedVersion: 2
+        x: 3404
+        y: 1034
+        width: 581
+        height: 916
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c268c0680a7db70c0800000000000000
+      internalID: -4576827511848270292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_chicken_pg_02 (1)_28
+      rect:
+        serializedVersion: 2
+        x: 4464
+        y: 1034
+        width: 578
+        height: 908
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799f3c3764648c520800000000000000
+      internalID: 2722503243149343127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_chicken_pg_02 (1)_29
+      rect:
+        serializedVersion: 2
+        x: 5525
+        y: 1042
+        width: 578
+        height: 891
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e32bcf59e948d50800000000000000
+      internalID: 6738685309479960092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_chicken_pg_02 (1)_30
+      rect:
+        serializedVersion: 2
+        x: 6526
+        y: 1075
+        width: 576
+        height: 867
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a86e40b15d8d40f0800000000000000
+      internalID: -1131092549410330457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_chicken_pg_02 (1)_31
+      rect:
+        serializedVersion: 2
+        x: 7486
+        y: 1030
+        width: 586
+        height: 837
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3274a65c0aaf6060800000000000000
+      internalID: 6948959720025911867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_chicken_pg_02 (1)_32
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 31
+        width: 619
+        height: 801
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4604d264f2e3490800000000000000
+      internalID: -7764716729086745358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_chicken_pg_02 (1)_33
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 23
+        width: 656
+        height: 763
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904d69cdbab8cf5e0800000000000000
+      internalID: -1874469774636428279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_chicken_pg_02 (1)_34
+      rect:
+        serializedVersion: 2
+        x: 2252
+        y: 52
+        width: 685
+        height: 717
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19770d992aa847dc0800000000000000
+      internalID: -3642133767665977455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_chicken_pg_02 (1)_35
+      rect:
+        serializedVersion: 2
+        x: 3176
+        y: 68
+        width: 714
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa74f87140b71cec0800000000000000
+      internalID: -3548419773885888598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_chicken_pg_02 (1)_36
+      rect:
+        serializedVersion: 2
+        x: 4274
+        y: 93
+        width: 739
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1205956dbaa3dbb30800000000000000
+      internalID: 4304661328546058273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_chicken_pg_02 (1)_37
+      rect:
+        serializedVersion: 2
+        x: 5274
+        y: 76
+        width: 771
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416f6b5d77ad37a30800000000000000
+      internalID: 4211950284743046676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_chicken_pg_02 (1)_38
+      rect:
+        serializedVersion: 2
+        x: 6440
+        y: 80
+        width: 753
+        height: 698
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a42d81fb199fd60800000000000000
+      internalID: 7924525269276314190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_chicken_pg_02 (1)_39
+      rect:
+        serializedVersion: 2
+        x: 7465
+        y: 80
+        width: 628
+        height: 747
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5eb6fc4111947940800000000000000
+      internalID: 5293014965558885982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a7480e3f019303843a7b37c911660934
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
