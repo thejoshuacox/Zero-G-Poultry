@@ -5,11 +5,16 @@ using UnityEngine.UI;
 
 public class buttonScript : MonoBehaviour
 {
+    public Button butt;
 
     public void setText(string text)
     {
-        Text txt = transform.Find("Text").GetComponent<Text>();
-
-        txt.text = text;
+        butt.gameObject.SetActive(false);
     }
+
+    public void startGame()
+    {
+        Time.timeScale = 1;
+    }
+
 }
