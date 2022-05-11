@@ -36,12 +36,12 @@ public class ChicknTrigger : MonoBehaviour
        targetDevice.TryGetFeatureValue(CommonUsages.primaryButton,out bool primaryButtonValue);
         if (primaryButtonValue)
         {
-            Debug.Log("pressing primary button");
+            //Debug.Log("pressing primary button");
         }
         targetDevice.TryGetFeatureValue(CommonUsages.trigger, out float triggerValue);
         if(triggerValue > 0.1f)
         {
-            Debug.Log("Trigger pressed " + triggerValue);
+            //Debug.Log("Trigger pressed " + triggerValue);
             
 
         }

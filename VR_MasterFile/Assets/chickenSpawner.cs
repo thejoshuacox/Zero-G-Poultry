@@ -6,9 +6,13 @@ using TMPro;
 
 public class chickenSpawner : MonoBehaviour
 {
-    double timer = 100;
+    public double timer = 100;
     public TextMeshProUGUI display;
     int tImer;
+    private int chickenToSpawn = 0;
+    public int amountPerSpawn = 5;
+    public int chickenCount;
+    bool changedAmount = true;
 
     public List<GameObject> objectsToSpawn = new List<GameObject>();
 
@@ -20,47 +24,104 @@ public class chickenSpawner : MonoBehaviour
     }
 
     // Update is called once per frame
-    void Update()
+    void FixedUpdate()
     {
         if (timer >= 0)
         {
-            timer -= Time.deltaTime;
+            timer -= Time.fixedDeltaTime;
             tImer = (int)Math.Round(timer);
             display.text = tImer.ToString();
         }
 
-        if (tImer+3 % 5 == 0)
+        if (tImer % 5 == 0 && tImer != 0)
         {
-            spawnChicken1();
+            if (chickenToSpawn < 5)
+            {
+                spawnChicken1(chickenToSpawn);
+                chickenToSpawn++;
+            }
+            else 
+            {
+                chickenToSpawn = 0;
+                spawnChicken1(chickenToSpawn);
+                chickenToSpawn++;
+            }
         }
 
-        if (tImer % 6 == 0)
+        if (tImer % 5 == 0 && tImer != 0)
         {
-            spawnChicken2();
+            if (chickenToSpawn < 5)
+            {
+                spawnChicken2(chickenToSpawn);
+                chickenToSpawn++;
+            }
+            else
+            {
+                chickenToSpawn = 0;
+                spawnChicken2(chickenToSpawn);
+                chickenToSpawn++;
+            }
         }
 
-        if (tImer % 9 == 0)
+        if (tImer % 5 == 0 && tImer != 0)
         {
-            spawnChicken3();
+            if (chickenToSpawn < 5)
+            {
+                spawnChicken3(chickenToSpawn);
+                chickenToSpawn++;
+            }
+            else
+            {
+                chickenToSpawn = 0;
+                spawnChicken3(chickenToSpawn);
+                chickenToSpawn++;
+            }
+        }
+
+        // Every 10 seconds, increase the number of chickens to be spawned by 5
+        if (tImer % 10 == 0 && !changedAmount)
+        {
+            amountPerSpawn += 5;
+            changedAmount = true;
+        }
+
+        // Every 5 seconds reset the chickenCount
+        if ((tImer+1) % 5 == 0)
+        {
+            chickenCount = amountPerSpawn;
+            changedAmount = false;
         }
 
     }
 
-    private void spawnChicken1()
+    private void spawnChicken1(int index)
     {
-        int index = UnityEngine.Random.Range(0, objectsToSpawn.Count);
-        Instantiate(objectsToSpawn[index], new Vector3(0f, 0.5f, 6f), new Quaternion(0, 0, 0, 0));
-    }
+        if (chickenCount > 0)
+        {
+            Debug.Log("Chicken " + index + " is being spawned");
+            Instantiate(objectsToSpawn[index], new Vector3(0f, 0.5f, 4f), new Quaternion(0, 0, 0, 0));
 
-    private void spawnChicken2()
-    {
-        int index = UnityEngine.Random.Range(0, objectsToSpawn.Count);
-        Instantiate(objectsToSpawn[index], new Vector3(0f, 0.5f, 6f), new Quaternion(0, 0, 0, 0));
+            chickenCount--;
+        }
     }
-
-    private void spawnChicken3()
+    private void spawnChicken2(int index)
     {
-        int index = UnityEngine.Random.Range(0, objectsToSpawn.Count);
-        Instantiate(objectsToSpawn[index], new Vector3(0f, 0.5f, 6f), new Quaternion(0, 0, 0, 0));
+        if (chickenCount > 0)
+        {
+            Debug.Log("Chicken " + index + " is being spawned");
+            Instantiate(objectsToSpawn[index], new Vector3(-4f, 0.5f, 0f), new Quaternion(0, 0, 0, 0));
+
+            chickenCount--;
+        }
+    }
+    private void spawnChicken3(int index)
+    {
+        if (chickenCount > 0)
+        {
+            Debug.Log("Chicken " + index + " is being spawned");
+            Instantiate(objectsToSpawn[index], new Vector3(4f, 0.5f, 0f), new Quaternion(0, 0, 0, 0));
+
+            chickenCount--;
+        }
     }
 }

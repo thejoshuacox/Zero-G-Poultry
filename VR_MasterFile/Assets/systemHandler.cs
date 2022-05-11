@@ -6,7 +6,7 @@ public class systemHandler : MonoBehaviour
 {
     private void Awake()
     {
-        Time.timeScale = 0;
+        Time.timeScale = 1;
     }
 
     // Start is called before the first frame update

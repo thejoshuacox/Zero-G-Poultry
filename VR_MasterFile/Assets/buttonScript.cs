@@ -6,6 +6,7 @@ using UnityEngine.UI;
 public class buttonScript : MonoBehaviour
 {
     public Button butt;
+    public GameObject score;
 
     public void setText(string text)
     {
@@ -15,6 +16,7 @@ public class buttonScript : MonoBehaviour
     public void startGame()
     {
         Time.timeScale = 1;
+        score.gameObject.SetActive(true);
     }
 
 }
