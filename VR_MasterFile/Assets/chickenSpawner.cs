@@ -99,7 +99,7 @@ public class chickenSpawner : MonoBehaviour
         if (chickenCount > 0)
         {
             Debug.Log("Chicken " + index + " is being spawned");
-            Instantiate(objectsToSpawn[index], new Vector3(0f, 0.5f, 4f), new Quaternion(0, 0, 0, 0));
+            Instantiate(objectsToSpawn[index], new Vector3(0f, 0.5f, 6f), new Quaternion(0, 0, 0, 0));
 
             chickenCount--;
         }
@@ -109,7 +109,7 @@ public class chickenSpawner : MonoBehaviour
         if (chickenCount > 0)
         {
             Debug.Log("Chicken " + index + " is being spawned");
-            Instantiate(objectsToSpawn[index], new Vector3(-4f, 0.5f, 0f), new Quaternion(0, 0, 0, 0));
+            Instantiate(objectsToSpawn[index], new Vector3(-6f, 0.5f, 0f), new Quaternion(0, 0, 0, 0));
 
             chickenCount--;
         }
@@ -119,7 +119,7 @@ public class chickenSpawner : MonoBehaviour
         if (chickenCount > 0)
         {
             Debug.Log("Chicken " + index + " is being spawned");
-            Instantiate(objectsToSpawn[index], new Vector3(4f, 0.5f, 0f), new Quaternion(0, 0, 0, 0));
+            Instantiate(objectsToSpawn[index], new Vector3(6f, 0.5f, 1f), new Quaternion(0, 0, 0, 0));
 
             chickenCount--;
         }
