@@ -26,12 +26,14 @@ public class chickenSpawner : MonoBehaviour
     // Update is called once per frame
     void FixedUpdate()
     {
-        if (timer >= 0)
+        if (timer > 0)
         {
             timer -= Time.fixedDeltaTime;
             tImer = (int)Math.Round(timer);
             display.text = tImer.ToString();
         }
+        else
+            Time.timeScale = 0;
 
         if (tImer % 5 == 0 && tImer != 0)
         {

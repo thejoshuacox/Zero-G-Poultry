@@ -5,6 +5,11 @@ using TMPro;
 
 public class chickenCollector : MonoBehaviour
 {
+    void Start()
+    {
+        Debug.Log("Score is " + score);
+    }
+
     public int score = 0;
     public TextMeshProUGUI scoreDisplay;
 
