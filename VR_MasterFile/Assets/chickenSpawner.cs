@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using System;
 using TMPro;
+using UnityEngine.SceneManagement;
 
 public class chickenSpawner : MonoBehaviour
 {
@@ -26,14 +27,17 @@ public class chickenSpawner : MonoBehaviour
     // Update is called once per frame
     void FixedUpdate()
     {
-        if (timer > 0)
+        if (timer > 0) //Run the timer down until 0
         {
             timer -= Time.fixedDeltaTime;
             tImer = (int)Math.Round(timer);
             display.text = tImer.ToString();
         }
-        else
-            Time.timeScale = 0;
+        else // Stop time and send to next scene
+        {   
+            SceneManager.LoadScene("End_Game");
+            //Initiate.Fade("End_Game", new Color(0, 0, 0), 0.5f);
+        }
 
         if (tImer % 5 == 0 && tImer != 0)
         {
