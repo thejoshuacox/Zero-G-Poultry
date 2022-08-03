@@ -10,6 +10,9 @@ public class chickenCollector : MonoBehaviour
         Debug.Log("Score is " + score);
     }
 
+    [SerializeField]
+    IntSO scoreSO;
+
     public int score = 0;
     public TextMeshProUGUI scoreDisplay;
 
@@ -20,6 +23,7 @@ public class chickenCollector : MonoBehaviour
             Destroy(other.gameObject);
             int.TryParse(scoreDisplay.text, out score);
             score++;
+            scoreSO.Value = score;
             scoreDisplay.text = score.ToString();
         }
     }
