@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class buttonScript : MonoBehaviour
 {
@@ -19,4 +20,9 @@ public class buttonScript : MonoBehaviour
         score.gameObject.SetActive(true);
     }
 
+    public void playGame()
+    {
+        Debug.Log("Entered PlayGame");
+        SceneManager.LoadScene("Main_Game");
+    }
 }
